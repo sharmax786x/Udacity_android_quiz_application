@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="heading">General Knowledge Quiz</string>
+    <string name="q1">Who is the current General Secretary of United Nations ?</string>
+    <string name="q1opt1">Ban Ki-moon</string>
+    <string name="q1opt2">Kofi Annan</string>
+    <string name="q1opt3">Trygve Lie</string>
+    <string name="q1opt4">António Guterres</string>
+    <string name="q2">Who is the CEO of Google ?</string>
+    <string name="q2opt1">Sundar Pichai</string>
+    <string name="q2opt2">Satya Nadela</string>
+    <string name="q2opt3">Larry Page</string>
+    <string name="q2opt4">Tim Cook</string>
+    <string name="q3">Which team won 2014 FIFA World Cup ?</string>
+    <string name="q3opt1">Brazil</string>
+    <string name="q3opt2">Argentina</string>
+    <string name="q3opt3">Germany</string>
+    <string name="q3opt4">Netherlands</string>
+    <string name="q4">The great Victoria Desert is located in which country ?</string>
+    <string name="q4ans">AUSTRALIA</string>
+    <string name="q5">Which among the following are permanent members of UN Security Council ?</string>
+    <string name="q5opt1">France</string>
+    <string name="q5opt2">Russia</string>
+    <string name="q5opt3">Canada</string>
+    <string name="q5opt4">Israel</string>
+</resources>
